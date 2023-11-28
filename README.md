@@ -43,7 +43,7 @@ Cloud Platform. For local testing, you might need to find the appropriate inform
 - In case you would like to work using your local terminal: https://cloud.google.com/sdk/docs/install-sdk#linux
  ### Stuff done 
 - Github Username: Saikou_Dibba_DT1-23
-- Hugging Face:
+- Hugging Face: SaikouDT1
 - Docker Hub: Saikoudibba1
 - VM Google Cloud: BfhDT1
 - 
