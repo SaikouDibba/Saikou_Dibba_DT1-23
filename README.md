@@ -41,3 +41,9 @@ Cloud Platform. For local testing, you might need to find the appropriate inform
 - Docker image to Docker Hub: https://docs.docker.com/get-started/04_sharing_app/
 - Firewall Rules on GCP: https://www.howtogeek.com/devops/how-to-open-firewall-ports-on-a-gcp-compute-engine-instance/
 - In case you would like to work using your local terminal: https://cloud.google.com/sdk/docs/install-sdk#linux
+ ### Stuff done 
+- Github Username: Saikou_Dibba_DT1-23
+- Hugging Face:
+- Docker Hub: Saikoudibba1
+- VM Google Cloud: BfhDT1
+- 
