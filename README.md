@@ -43,7 +43,8 @@ Cloud Platform. For local testing, you might need to find the appropriate inform
 - In case you would like to work using your local terminal: https://cloud.google.com/sdk/docs/install-sdk#linux
  ### Stuff done 
 - Github Username: Saikou_Dibba_DT1-23
-- Hugging Face: SaikouDT1
-- Docker Hub: Saikoudibba1
-- VM Google Cloud: BfhDT1
-- 
+- Hugging Face: https://huggingface.co/SaikouDT1
+- Docker: Could not download docker desktop on my computer- that killed my time (could not push the image into the hub even though learned the commands)
+- Docker hub: https://hub.docker.com/repository/docker/dibba3052/dibba_dt1/general
+- VM Google Cloud: https://console.cloud.google.com/welcome/new?_ga=2.245783364.-1392147174.1532359777&pli=1&project=bfhdt1      (BfhDT1)
+- Bubble: https://bubble.io/page?name=index&id=frontend-dt1&tab=tabs-2
